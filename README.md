@@ -1,4 +1,4 @@
 # hello-world
-Simple Hello World for CIS 4100
+Simple Hello World for CIS 4850
 
 Sample
